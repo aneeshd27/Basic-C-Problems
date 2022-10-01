@@ -1,3 +1,4 @@
+/* Program to calculate Factorial of a number*/
 #include <stdio.h>
 int main()
 {
